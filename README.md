@@ -118,16 +118,6 @@ Pull requests and issues are welcome! Please open an issue for bugs or feature r
 
 ---
 
-## License
-[MIT License](LICENSE) (add your license file if needed)
-
----
-
-## Author
-- [Your Name/Handle]
-- [LinkedIn/GitHub]
-
----
 
 ## Acknowledgements
 - [FLAML](https://github.com/microsoft/FLAML)
